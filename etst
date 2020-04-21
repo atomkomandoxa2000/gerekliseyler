@@ -1,0 +1,11 @@
+import os, sys, urllib, urllib.request
+
+grs = """
+
+Sisteme Hoş Geldiniz
+
+"""
+
+print(grs)
+
+input()
